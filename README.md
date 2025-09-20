@@ -17,3 +17,4 @@ conda activate visa
 ```
 pip install -r requirements.txt
 ```
+## Mango DB Setup

@@ -18,3 +18,9 @@ conda activate visa
 pip install -r requirements.txt
 ```
 ## Mango DB Setup
+```
+https://www.mongodb.com/
+```
+```
+https://www.kaggle.com/datasets/moro23/easyvisa-dataset
+```

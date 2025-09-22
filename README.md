@@ -10,6 +10,8 @@ git push origin main
 ## Environment Create
 ```
 conda create -n visa python=3.8 -y
+python -m venv venv
+venv\Scripts\activate
 ```
 ```
 conda activate visa

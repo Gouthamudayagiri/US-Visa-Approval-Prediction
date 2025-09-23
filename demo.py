@@ -15,4 +15,8 @@
 # print(COLLECTION_NAME)
 
 
-from us_visa.pipeline.training_pipeline import TrainPipeline
+from us_visa.pipline.training_pipeline import TrainPipeline
+
+
+pipeline = TrainPipeline()
+pipeline.run_pipeline()

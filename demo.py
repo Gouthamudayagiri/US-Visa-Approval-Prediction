@@ -10,6 +10,9 @@
 #     logging.info(e)
 #     raise USvisaException(e,sys) from e
 
-from us_visa.constants import COLLECTION_NAME
+# from us_visa.constants import COLLECTION_NAME
 
-print(COLLECTION_NAME)
+# print(COLLECTION_NAME)
+
+
+from us_visa.pipeline.training_pipeline import TrainPipeline
